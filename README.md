@@ -23,4 +23,4 @@ Please cite the associated manuscript and this repository. See CITATION.cff.
 
 ## License
 
-Data are released under [chosen license].
+Data are released under the Creative Commons Attribution 4.0 International license (CC BY 4.0). Please cite the associated manuscript and this repository when reusing these data.
