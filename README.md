@@ -19,7 +19,7 @@ The dataset includes 179 African Dacus specimens representing 51 species. Nuclea
 
 ## Citation
 
-Please cite the associated manuscript and this repository. See CITATION.cff.
+Please cite the associated manuscript and this repository.
 
 ## License
 
