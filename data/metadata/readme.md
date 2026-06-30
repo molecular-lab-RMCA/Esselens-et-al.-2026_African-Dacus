@@ -4,7 +4,7 @@ This folder contains specimen-level and trait metadata associated with the Afric
 
 ## Files
 
-`metadata.csv`  
+`metadata.xlsx`  
   - Specimen-level information for the 179 African *Dacus* specimens included in the study.
   - Host plant family per species
 
